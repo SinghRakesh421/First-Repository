@@ -1,10 +1,10 @@
 export default function Home() {
   return (
-    <main style={{ 
-      display: "flex", 
-      flexDirection: "column", 
-      alignItems: "center", 
-      justifyContent: "center", 
+    <main style={{
+      display: "flex",
+      flexDirection: "column",
+      alignItems: "center",
+      justifyContent: "center",
       height: "100vh",
       fontFamily: "Arial, sans-serif"
     }}>
